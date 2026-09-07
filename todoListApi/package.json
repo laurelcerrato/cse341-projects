@@ -1,0 +1,28 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "\"RESTful todoListApi\"",
+  "keywords": [
+    "["
+  ],
+  "repository": {
+    "type": "git",
+    "url": "\"https://github.com/laurelcerrato/cse341-projects\""
+  },
+  "license": "ISC",
+  "author": "\"Laurel Cerrato\"",
+  "type": "GIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongodb": "^7.6.0",
+    "mongoose": "^9.9.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

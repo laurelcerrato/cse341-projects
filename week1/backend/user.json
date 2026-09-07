@@ -1,0 +1,20 @@
+{
+    "professionalName": "Laurel Cerrato",
+    "base64image": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABGklEQVR42mL8//8/AyWACXQ",
+    "nameLink" :{
+        "firstName":"Laurel",
+        "url": "https://www.linkedin.com/in/laurel-cerrato-0b1a3a1b2/"
+    },
+    "primaryDescription" : "I am a software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes.",
+    "workDescription1" : "I am a software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes.",
+    "workDescription2" : "I am a software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes.",
+    "linkTitleText" : "Connect with me",
+    "linkedInLink": {
+        "text": "LinkedIn",
+        "link": "https://www.linkedin.com/in/laurel-cerrato-0b1a3a1b2/"
+    },
+    "githubLink": {
+        "text": "GitHub",
+        "link": "https://github.com/laurelcerrato"
+    }
+}
