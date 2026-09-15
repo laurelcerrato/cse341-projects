@@ -1,11 +1,14 @@
 const dns = require("dns");
 dns.setServers(["8.8.8.8"]);
 const express = require('express');
+const bodyParse = require('body-parser');
 const mongodb = require('./data/database.js');
 const app = express();
 const port = process.env.PORT || 3000;
 
+app.use(bodyParse.json());
 app.use('/', require('./routes'));
+
 
 mongodb.initDb((err) => {
   if (err) {
