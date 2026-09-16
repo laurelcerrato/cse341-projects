@@ -42,6 +42,9 @@
             "schema": {
               "type": "object",
               "properties": {
+                "firstName": {
+                  "example": "any"
+                },
                 "lastName": {
                   "example": "any"
                 },
